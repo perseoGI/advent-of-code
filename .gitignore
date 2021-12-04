@@ -1,0 +1,25 @@
+.metadata/
+outgoing/
+GNU\ ARM\ v4.9.3\ -\ Release/
+GNU\ ARM\ v4.9.3\ -\ Debug/
+GNU*
+# Object files
+*.o
+*.out
+*/obj/*
+.settings/
+.DS_Store
+*.idea/
+*.vscode
+.floo
+.flooignore
+*/bin/*
+*.clangd*
+compile_commands.commands.json
+compile_commands.json
+coverage.info
+*.map
+*/libraries/flashLib/documents/*
+.cache/
+*.gcda
+*.gcno
